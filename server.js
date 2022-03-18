@@ -21,7 +21,7 @@ const session = expressSession({
 app.use(express.json())
 app.use(session)
 app.use(express.static('public'))
-
+app.use(bodyParser.json())
 
 if (process.env.NODE_ENV === 'production') {
     // Express serve static files on production environment
@@ -36,15 +36,15 @@ if (process.env.NODE_ENV === 'production') {
     app.use(cors(corsOptions))
 }
 
-// const authRoutes = require('./api/auth/auth.routes')
-// const userRoutes = require('./api/user/user.routes')
+const authRoutes = require('./api/auth/auth.routes')
+const userRoutes = require('./api/user/user.routes')
 const toyRoutes = require('./api/toy/toy.routes')
 
 
 
 // routes
-// app.use('/api/auth', authRoutes)
-// app.use('/api/user', userRoutes)
+app.use('/api/auth', authRoutes)
+app.use('/api/user', userRoutes)
 app.use('/api/toy', toyRoutes)
 
 // Make every server-side-route to match the index.html

@@ -31,7 +31,8 @@ async function getById(toyId) {
 async function add(toy) {
     try {
         const collection = await dbService.getCollection('toy')
-        const addedToy = await collection.insertOne(toy)
+        const toyId = await collection.insertOne(toy)
+        const addedToy = await collection.findOne({ '_id': ObjectId(toyId.insertedId) })
         return addedToy
     } catch (err) {
         logger.error('cannot insert toy', err)
@@ -56,6 +57,7 @@ async function update(toy) {
         delete toy._id
         const collection = await dbService.getCollection('toy')
         await collection.updateOne({ "_id": id }, { $set: { ...toy } })
+        console.log('updated');
         return toy
     } catch (err) {
         logger.error(`cannot update toy ${toyId}`, err)
