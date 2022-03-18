@@ -1,5 +1,7 @@
 
 const dbService = require('../../services/db.service')
+const logger = require('../../services/logger.service')
+const ObjectId = require('mongodb').ObjectId
 
 
 async function query(filterBy) {
@@ -10,11 +12,10 @@ async function query(filterBy) {
         var toys = await collection.find(criteria).toArray()
         return toys
     } catch (err) {
-        // logger.error('cannot find toys', err)
+        logger.error('cannot find toys', err)
         throw err
     }
 }
-// ObjectId("62332f28ff84005b1d77a072")
 
 async function getById(toyId) {
     try {
@@ -22,21 +23,18 @@ async function getById(toyId) {
         const toy = await collection.findOne({ '_id': ObjectId(toyId) })
         return toy
     } catch (err) {
-        // logger.error(`while finding toy ${toyId}`, err)
-        console.log(err);
+        logger.error(`while finding toy ${toyId}`, err)
         throw err
     }
 }
 
 async function add(toy) {
-
-    console.log('service');
     try {
         const collection = await dbService.getCollection('toy')
         const addedToy = await collection.insertOne(toy)
         return addedToy
     } catch (err) {
-        // logger.error('cannot insert toy', err)
+        logger.error('cannot insert toy', err)
         throw err
     }
 }
@@ -47,7 +45,7 @@ async function remove(toyId) {
         await collection.deleteOne({ '_id': ObjectId(toyId) })
         return toyId
     } catch (err) {
-        // logger.error(`cannot remove toy ${toyId}`, err)
+        logger.error(`cannot remove toy ${toyId}`, err)
         throw err
     }
 }
@@ -60,7 +58,7 @@ async function update(toy) {
         await collection.updateOne({ "_id": id }, { $set: { ...toy } })
         return toy
     } catch (err) {
-        // logger.error(`cannot update toy ${toyId}`, err)
+        logger.error(`cannot update toy ${toyId}`, err)
         throw err
     }
 }

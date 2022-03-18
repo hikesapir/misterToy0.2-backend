@@ -54,8 +54,8 @@ app.get('/**', (req, res) => {
     res.sendFile(path.join(__dirname, 'public', 'index.html'))
 })
 
-// const logger = require('./services/logger.service')
-const port = process.env.PORT || 3030;
-app.listen(port, () => {
-    console.log(`App listening on port ${port}! http://localhost:${port}`)
-});
+const logger = require('./services/logger.service')
+const port = process.env.PORT || 3030
+http.listen(port, () => {
+    logger.info(`App listening on port ${port}! http://localhost:${port}`)
+})
