@@ -103,3 +103,10 @@
 18/03/2022, 21:12:45 - DEBUG - auth.service - login with username: sapir
 18/03/2022, 21:12:52 - INFO - App listening on port 3030! http://localhost:3030
 18/03/2022, 21:17:07 - INFO - App listening on port 3030! http://localhost:3030
+19/03/2022, 0:31:10 - INFO - App listening on port 3030! http://localhost:3030
+19/03/2022, 0:31:42 - DEBUG - auth.service - login with username: admin
+19/03/2022, 0:34:27 - INFO - App listening on port 3030! http://localhost:3030
+19/03/2022, 0:40:10 - INFO - App listening on port 3030! http://localhost:3030
+19/03/2022, 0:41:24 - DEBUG - auth.service - signup with username: rei, fullname: ree chel
+19/03/2022, 0:41:24 - DEBUG - auth.route - new account created: {"username":"rei","password":"$2b$10$FNIKZP8VFQ98Vv6AiRVeO.620vLJy4tPk2K7ubd8g0iCXv7592Go.","fullname":"ree chel","isAdmin":false,"_id":"62350a94528d7b864c581de3"}
+19/03/2022, 0:41:24 - DEBUG - auth.service - login with username: rei
