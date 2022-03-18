@@ -102,3 +102,4 @@
 18/03/2022, 21:12:45 - DEBUG - auth.route - new account created: {"username":"sapir","password":"$2b$10$INKzdcoQBhWq2FpyQ75n6.9HLiMI9c8w/BDzuMr/tXzg71Zc2yIuS","fullname":"sapir ush","isAdmin":true,"_id":"6234d9ad8239928bfccc2e13"}
 18/03/2022, 21:12:45 - DEBUG - auth.service - login with username: sapir
 18/03/2022, 21:12:52 - INFO - App listening on port 3030! http://localhost:3030
+18/03/2022, 21:17:07 - INFO - App listening on port 3030! http://localhost:3030
