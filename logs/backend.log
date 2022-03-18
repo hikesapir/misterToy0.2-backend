@@ -110,3 +110,19 @@
 19/03/2022, 0:41:24 - DEBUG - auth.service - signup with username: rei, fullname: ree chel
 19/03/2022, 0:41:24 - DEBUG - auth.route - new account created: {"username":"rei","password":"$2b$10$FNIKZP8VFQ98Vv6AiRVeO.620vLJy4tPk2K7ubd8g0iCXv7592Go.","fullname":"ree chel","isAdmin":false,"_id":"62350a94528d7b864c581de3"}
 19/03/2022, 0:41:24 - DEBUG - auth.service - login with username: rei
+19/03/2022, 0:52:51 - INFO - App listening on port 3030! http://localhost:3030
+19/03/2022, 0:55:16 - INFO - App listening on port 3030! http://localhost:3030
+19/03/2022, 0:59:45 - DEBUG - auth.service - login with username: admin
+19/03/2022, 1:06:23 - INFO - App listening on port 3030! http://localhost:3030
+19/03/2022, 1:06:28 - DEBUG - auth.service - login with username: admin
+19/03/2022, 1:06:45 - INFO - App listening on port 3030! http://localhost:3030
+19/03/2022, 1:06:48 - INFO - App listening on port 3030! http://localhost:3030
+19/03/2022, 1:06:50 - DEBUG - auth.service - login with username: admin
+19/03/2022, 1:07:55 - DEBUG - auth.service - login with username: admin
+19/03/2022, 1:08:31 - DEBUG - auth.service - login with username: admin
+19/03/2022, 1:09:39 - DEBUG - auth.service - login with username: admin
+19/03/2022, 1:10:11 - DEBUG - auth.service - login with username: admin
+19/03/2022, 1:10:42 - DEBUG - auth.service - login with username: admin
+19/03/2022, 1:11:24 - DEBUG - auth.service - login with username: admin
+19/03/2022, 1:11:39 - DEBUG - auth.service - login with username: admin
+19/03/2022, 1:22:20 - DEBUG - auth.service - login with username: admin
