@@ -19,7 +19,6 @@ async function getToys(req, res) {
 async function getToyById(req, res) {
     try {
         const toyId = req.params.id;
-        console.log('control', toyId);
         const toy = await toyService.getById(toyId)
         res.json(toy)
     } catch (err) {
@@ -30,7 +29,6 @@ async function getToyById(req, res) {
 
 // POST (add toy)
 async function addToy(req, res) {
-    console.log('control');
 
     try {
         const toy = req.body
