@@ -126,3 +126,61 @@
 19/03/2022, 1:11:24 - DEBUG - auth.service - login with username: admin
 19/03/2022, 1:11:39 - DEBUG - auth.service - login with username: admin
 19/03/2022, 1:22:20 - DEBUG - auth.service - login with username: admin
+19/03/2022, 9:16:50 - INFO - App listening on port 3030! http://localhost:3030
+19/03/2022, 9:17:28 - DEBUG - auth.service - login with username: admin
+19/03/2022, 9:33:05 - DEBUG - auth.service - signup with username: NONO, fullname: NOFAR HIKI
+19/03/2022, 9:33:05 - DEBUG - auth.route - new account created: {"username":"NONO","password":"$2b$10$fk/C0I2P8l/QlyGSAD.3j.dRnYt.QJ349.qh4VP6LYoa9oPu5OPxW","fullname":"NOFAR HIKI","isAdmin":false,"_id":"623587318525dc3a2054f9f4"}
+19/03/2022, 9:33:05 - DEBUG - auth.service - login with username: NONO
+19/03/2022, 9:53:01 - DEBUG - auth.service - login with username: admin
+19/03/2022, 10:19:57 - INFO - App listening on port 3030! http://localhost:3030
+19/03/2022, 10:20:10 - INFO - App listening on port 3030! http://localhost:3030
+19/03/2022, 10:20:22 - INFO - App listening on port 3030! http://localhost:3030
+19/03/2022, 10:20:35 - INFO - App listening on port 3030! http://localhost:3030
+19/03/2022, 10:32:09 - INFO - App listening on port 3030! http://localhost:3030
+19/03/2022, 10:32:39 - INFO - App listening on port 3030! http://localhost:3030
+19/03/2022, 10:33:04 - INFO - App listening on port 3030! http://localhost:3030
+19/03/2022, 10:33:18 - INFO - App listening on port 3030! http://localhost:3030
+19/03/2022, 10:33:21 - INFO - App listening on port 3030! http://localhost:3030
+19/03/2022, 10:33:37 - INFO - App listening on port 3030! http://localhost:3030
+19/03/2022, 10:33:38 - ERROR - cannot find toys | {}
+19/03/2022, 10:33:38 - ERROR - Failed to get toys | {}
+19/03/2022, 10:34:19 - INFO - App listening on port 3030! http://localhost:3030
+19/03/2022, 10:34:22 - ERROR - cannot find toys | {}
+19/03/2022, 10:34:22 - ERROR - Failed to get toys | {}
+19/03/2022, 10:35:04 - INFO - App listening on port 3030! http://localhost:3030
+19/03/2022, 10:35:06 - ERROR - cannot find toys | {}
+19/03/2022, 10:35:06 - ERROR - Failed to get toys | {}
+19/03/2022, 10:35:10 - INFO - App listening on port 3030! http://localhost:3030
+19/03/2022, 10:35:58 - INFO - App listening on port 3030! http://localhost:3030
+19/03/2022, 10:37:16 - INFO - App listening on port 3030! http://localhost:3030
+19/03/2022, 10:37:49 - INFO - App listening on port 3030! http://localhost:3030
+19/03/2022, 10:40:29 - INFO - App listening on port 3030! http://localhost:3030
+19/03/2022, 10:59:50 - INFO - App listening on port 3030! http://localhost:3030
+19/03/2022, 11:00:46 - INFO - App listening on port 3030! http://localhost:3030
+19/03/2022, 11:16:29 - INFO - App listening on port 3030! http://localhost:3030
+19/03/2022, 11:18:21 - INFO - App listening on port 3030! http://localhost:3030
+19/03/2022, 11:19:30 - ERROR - cannot find toys | {"ok":0,"code":2,"codeName":"BadValue"}
+19/03/2022, 11:19:30 - ERROR - Failed to get toys | {"ok":0,"code":2,"codeName":"BadValue"}
+19/03/2022, 11:47:23 - INFO - App listening on port 3030! http://localhost:3030
+19/03/2022, 11:49:31 - ERROR - cannot find toys | {"ok":0,"code":2,"codeName":"BadValue"}
+19/03/2022, 11:49:31 - ERROR - Failed to get toys | {"ok":0,"code":2,"codeName":"BadValue"}
+19/03/2022, 11:49:40 - ERROR - cannot find toys | {"ok":0,"code":2,"codeName":"BadValue"}
+19/03/2022, 11:49:40 - ERROR - Failed to get toys | {"ok":0,"code":2,"codeName":"BadValue"}
+19/03/2022, 11:49:53 - INFO - App listening on port 3030! http://localhost:3030
+19/03/2022, 11:50:48 - INFO - App listening on port 3030! http://localhost:3030
+19/03/2022, 11:52:10 - INFO - App listening on port 3030! http://localhost:3030
+19/03/2022, 11:52:57 - INFO - App listening on port 3030! http://localhost:3030
+19/03/2022, 11:55:14 - INFO - App listening on port 3030! http://localhost:3030
+19/03/2022, 11:56:10 - INFO - App listening on port 3030! http://localhost:3030
+19/03/2022, 11:56:35 - INFO - App listening on port 3030! http://localhost:3030
+19/03/2022, 12:00:00 - INFO - App listening on port 3030! http://localhost:3030
+19/03/2022, 12:00:08 - INFO - App listening on port 3030! http://localhost:3030
+19/03/2022, 12:00:55 - INFO - App listening on port 3030! http://localhost:3030
+19/03/2022, 12:30:17 - INFO - App listening on port 3030! http://localhost:3030
+19/03/2022, 12:30:57 - INFO - App listening on port 3030! http://localhost:3030
+19/03/2022, 12:30:59 - ERROR - cannot find toys | {"ok":0,"code":40414,"codeName":"Location40414"}
+19/03/2022, 12:30:59 - ERROR - Failed to get toys | {"ok":0,"code":40414,"codeName":"Location40414"}
+19/03/2022, 12:31:05 - INFO - App listening on port 3030! http://localhost:3030
+19/03/2022, 12:34:32 - INFO - App listening on port 3030! http://localhost:3030
+19/03/2022, 12:34:37 - INFO - Req!!!
+19/03/2022, 12:35:12 - INFO - App listening on port 3030! http://localhost:3030
