@@ -6,7 +6,7 @@ const toyService = require('../toy/toy.service')
 
 async function getReviews(req, res) {
     try {
-        console.log('filterBy', req.query);
+        console.log('filterBy' , req.query);
 
         const reviews = await reviewService.query(req.query)
         res.send(reviews)
@@ -30,20 +30,19 @@ async function deleteReview(req, res) {
 async function addReview(req, res) {
     try {
         var review = req.body
-        review.byUser = req.session.user._id
+        review.byUserId = req.session.user._id
         review = await reviewService.add(review)
-
+        
         // prepare the updated review for sending out
         review.aboutToy = await toyService.getById(review.aboutToyId)
-
         // Give the user credit for adding a review
-        var user = await userService.getById(review.byUser)
+        var user = await userService.getById(review.byUserId)
         user = await userService.update(user)
         review.byUser = user
-        // const fullUser = await userService.getById(user._id)
+        const fullUser = await userService.getById(user._id)
 
         // console.log('CTRL SessionId:', req.sessionID);
-        // socketService.broadcast({type: 'review-added', data: review, userId: review.byUser})
+        // socketService.broadcast({type: 'review-added', data: review, userId: review.byUserId})
         // socketService.emitToUser({type: 'review-about-you', data: review, userId: review.aboutToyId})
         // socketService.emitTo({type: 'user-updated', data: fullUser, label: fullUser._id})
 
