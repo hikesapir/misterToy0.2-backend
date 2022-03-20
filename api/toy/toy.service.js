@@ -8,8 +8,8 @@ async function query(filterBy) {
     try {
         const criteria = _buildCriteria(filterBy)
         // const criteria = {}
-        const collection = await dbService.getCollection('toy')
         const sortCriteria = _buildSortCriteria(filterBy)
+        const collection = await dbService.getCollection('toy')
         var toys = await collection.find(criteria).sort(sortCriteria).collation({ locale: "en", caseLevel: true }).toArray()
         return toys
     } catch (err) {

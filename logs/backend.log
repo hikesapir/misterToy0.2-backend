@@ -274,3 +274,238 @@
 19/03/2022, 14:45:59 - INFO - Req!!!
 19/03/2022, 14:46:58 - INFO - Req!!!
 19/03/2022, 14:46:58 - INFO - Req!!!
+19/03/2022, 14:47:44 - INFO - App listening on port 3030! http://localhost:3030
+19/03/2022, 14:48:00 - INFO - Req!!!
+19/03/2022, 14:48:33 - DEBUG - auth.service - login with username: admin
+19/03/2022, 14:51:37 - INFO - Req!!!
+19/03/2022, 14:51:37 - INFO - Req from: admin admin
+19/03/2022, 14:56:20 - INFO - Req!!!
+19/03/2022, 14:56:20 - INFO - Req from: admin admin
+19/03/2022, 14:56:37 - INFO - Req!!!
+19/03/2022, 14:56:37 - INFO - Req from: admin admin
+19/03/2022, 15:00:16 - INFO - Req!!!
+19/03/2022, 15:00:16 - INFO - Req from: admin admin
+19/03/2022, 15:04:11 - DEBUG - auth.service - login with username: NONO
+19/03/2022, 15:04:27 - INFO - Req!!!
+19/03/2022, 15:04:27 - INFO - Req from: NOFAR HIKI
+19/03/2022, 15:04:29 - INFO - Req!!!
+19/03/2022, 15:04:29 - INFO - Req from: NOFAR HIKI
+19/03/2022, 15:04:30 - INFO - Req!!!
+19/03/2022, 15:04:30 - INFO - Req from: NOFAR HIKI
+19/03/2022, 15:04:31 - INFO - Req!!!
+19/03/2022, 15:04:31 - INFO - Req from: NOFAR HIKI
+19/03/2022, 15:04:35 - INFO - Req!!!
+19/03/2022, 15:04:35 - INFO - Req from: NOFAR HIKI
+19/03/2022, 15:04:41 - INFO - Req!!!
+19/03/2022, 15:04:41 - INFO - Req from: NOFAR HIKI
+19/03/2022, 15:13:59 - INFO - Req!!!
+19/03/2022, 15:13:59 - INFO - Req from: NOFAR HIKI
+19/03/2022, 15:14:08 - INFO - Req!!!
+19/03/2022, 15:14:08 - INFO - Req from: NOFAR HIKI
+19/03/2022, 15:16:24 - INFO - Req!!!
+19/03/2022, 15:16:24 - INFO - Req from: NOFAR HIKI
+19/03/2022, 15:19:13 - DEBUG - auth.service - login with username: admin
+20/03/2022, 13:31:01 - INFO - App listening on port 3030! http://localhost:3030
+20/03/2022, 13:31:16 - INFO - Req!!!
+20/03/2022, 13:31:20 - INFO - Req!!!
+20/03/2022, 13:32:08 - INFO - App listening on port 3030! http://localhost:3030
+20/03/2022, 13:38:49 - INFO - Req!!!
+20/03/2022, 13:39:52 - INFO - Req!!!
+20/03/2022, 13:40:37 - INFO - Req!!!
+20/03/2022, 13:58:24 - INFO - Req!!!
+20/03/2022, 13:58:46 - INFO - Req!!!
+20/03/2022, 13:58:56 - INFO - Req!!!
+20/03/2022, 14:00:45 - INFO - Req!!!
+20/03/2022, 14:00:53 - INFO - Req!!!
+20/03/2022, 14:01:21 - INFO - Req!!!
+20/03/2022, 14:01:35 - INFO - Req!!!
+20/03/2022, 15:04:19 - INFO - Req!!!
+20/03/2022, 15:04:25 - DEBUG - auth.service - login with username: admin
+20/03/2022, 15:21:26 - INFO - Req!!!
+20/03/2022, 15:21:26 - INFO - Req from: admin admin
+20/03/2022, 15:22:42 - INFO - Req!!!
+20/03/2022, 15:22:42 - INFO - Req from: admin admin
+20/03/2022, 15:23:07 - INFO - Req!!!
+20/03/2022, 15:23:07 - INFO - Req from: admin admin
+20/03/2022, 15:30:53 - INFO - App listening on port 3030! http://localhost:3030
+20/03/2022, 15:38:27 - INFO - Req!!!
+20/03/2022, 15:38:44 - INFO - Req!!!
+20/03/2022, 15:39:21 - INFO - Req!!!
+20/03/2022, 15:53:19 - INFO - Req!!!
+20/03/2022, 15:55:01 - INFO - Req!!!
+20/03/2022, 15:56:20 - INFO - Req!!!
+20/03/2022, 16:21:06 - INFO - App listening on port 3030! http://localhost:3030
+20/03/2022, 16:21:08 - INFO - App listening on port 3030! http://localhost:3030
+20/03/2022, 16:34:45 - INFO - Req!!!
+20/03/2022, 16:42:58 - INFO - Req!!!
+20/03/2022, 17:01:32 - INFO - Req!!!
+20/03/2022, 17:01:44 - INFO - Req!!!
+20/03/2022, 17:02:08 - INFO - Req!!!
+20/03/2022, 17:02:47 - INFO - Req!!!
+20/03/2022, 17:03:29 - INFO - Req!!!
+20/03/2022, 17:04:10 - DEBUG - auth.service - login with username: admin
+20/03/2022, 17:04:38 - ERROR - while finding toy undefined | {}
+20/03/2022, 17:04:38 - ERROR - Failed to get toy | {}
+20/03/2022, 17:04:45 - INFO - Req!!!
+20/03/2022, 17:04:45 - INFO - Req from: admin admin
+20/03/2022, 17:04:45 - ERROR - while finding toy undefined | {}
+20/03/2022, 17:04:45 - ERROR - Failed to get toy | {}
+20/03/2022, 17:05:02 - INFO - Req!!!
+20/03/2022, 17:05:02 - INFO - Req from: admin admin
+20/03/2022, 17:05:21 - INFO - Req!!!
+20/03/2022, 17:05:21 - INFO - Req from: admin admin
+20/03/2022, 17:05:37 - INFO - Req!!!
+20/03/2022, 17:05:37 - INFO - Req from: admin admin
+20/03/2022, 17:05:41 - INFO - Req!!!
+20/03/2022, 17:05:41 - INFO - Req from: admin admin
+20/03/2022, 17:06:17 - INFO - Req!!!
+20/03/2022, 17:06:17 - INFO - Req from: admin admin
+20/03/2022, 17:08:29 - INFO - Req!!!
+20/03/2022, 17:08:29 - INFO - Req from: admin admin
+20/03/2022, 17:08:59 - INFO - Req!!!
+20/03/2022, 17:08:59 - INFO - Req from: admin admin
+20/03/2022, 17:09:08 - DEBUG - auth.service - login with username: admin
+20/03/2022, 17:09:29 - DEBUG - auth.service - signup with username: the king, fullname: tom
+20/03/2022, 17:09:29 - DEBUG - auth.route - new account created: {"username":"the king","password":"$2b$10$0nLI4sWu1Mx2Ajx2JE7U.eiuY7/xSPsgV.EyGSATmYJ9gkmcKD3ua","fullname":"tom","score":100,"_id":"623743a961d85b758b4f71a0"}
+20/03/2022, 17:09:29 - DEBUG - auth.service - login with username: the king
+20/03/2022, 17:09:40 - DEBUG - auth.service - login with username: the king
+20/03/2022, 17:29:43 - INFO - App listening on port 3030! http://localhost:3030
+20/03/2022, 17:33:28 - DEBUG - auth.service - login with username: admin
+20/03/2022, 17:33:33 - INFO - Req!!!
+20/03/2022, 17:33:33 - INFO - Req from: admin admin
+20/03/2022, 17:33:33 - ERROR - while finding user undefined | {}
+20/03/2022, 17:33:33 - ERROR - Failed to add review | {}
+20/03/2022, 17:39:39 - INFO - App listening on port 3030! http://localhost:3030
+20/03/2022, 17:39:43 - INFO - Req!!!
+20/03/2022, 17:39:50 - DEBUG - auth.service - login with username: admin
+20/03/2022, 17:39:52 - INFO - Req!!!
+20/03/2022, 17:39:52 - INFO - Req from: admin admin
+20/03/2022, 17:39:52 - DEBUG - Emiting to user socket: undefined
+20/03/2022, 17:39:52 - ERROR - Failed to add review | {}
+20/03/2022, 17:42:44 - INFO - App listening on port 3030! http://localhost:3030
+20/03/2022, 17:42:47 - DEBUG - auth.service - login with username: admin
+20/03/2022, 17:42:49 - INFO - Req!!!
+20/03/2022, 17:42:49 - INFO - Req from: admin admin
+20/03/2022, 17:42:49 - DEBUG - Emiting to user socket: undefined
+20/03/2022, 17:45:04 - INFO - App listening on port 3030! http://localhost:3030
+20/03/2022, 17:45:53 - INFO - App listening on port 3030! http://localhost:3030
+20/03/2022, 17:49:11 - INFO - App listening on port 3030! http://localhost:3030
+20/03/2022, 17:51:13 - INFO - App listening on port 3030! http://localhost:3030
+20/03/2022, 17:56:30 - INFO - App listening on port 3030! http://localhost:3030
+20/03/2022, 17:57:04 - INFO - Req!!!
+20/03/2022, 17:59:25 - INFO - Req!!!
+20/03/2022, 17:59:38 - INFO - Req!!!
+20/03/2022, 17:59:50 - DEBUG - auth.service - login with username: admin
+20/03/2022, 17:59:52 - INFO - Req!!!
+20/03/2022, 17:59:52 - INFO - Req from: admin admin
+20/03/2022, 17:59:52 - DEBUG - Emiting to user socket: 62332f28ff84005b1d77a074
+20/03/2022, 17:59:55 - INFO - Req!!!
+20/03/2022, 17:59:55 - INFO - Req from: admin admin
+20/03/2022, 18:00:36 - INFO - App listening on port 3030! http://localhost:3030
+20/03/2022, 18:03:24 - INFO - Req!!!
+20/03/2022, 18:03:59 - INFO - App listening on port 3030! http://localhost:3030
+20/03/2022, 18:04:04 - DEBUG - auth.service - login with username: admin
+20/03/2022, 18:04:08 - INFO - Req!!!
+20/03/2022, 18:04:08 - INFO - Req from: admin admin
+20/03/2022, 18:04:20 - INFO - App listening on port 3030! http://localhost:3030
+20/03/2022, 18:04:26 - INFO - App listening on port 3030! http://localhost:3030
+20/03/2022, 18:04:30 - DEBUG - auth.service - login with username: admin
+20/03/2022, 18:04:33 - INFO - Req!!!
+20/03/2022, 18:04:33 - INFO - Req from: admin admin
+20/03/2022, 18:06:31 - INFO - Req!!!
+20/03/2022, 18:06:31 - INFO - Req from: admin admin
+20/03/2022, 18:07:22 - DEBUG - auth.service - login with username: admin
+20/03/2022, 18:08:03 - INFO - Req!!!
+20/03/2022, 18:08:03 - INFO - Req from: admin admin
+20/03/2022, 18:08:10 - INFO - Req!!!
+20/03/2022, 18:08:10 - INFO - Req from: admin admin
+20/03/2022, 18:09:59 - INFO - Req!!!
+20/03/2022, 18:09:59 - INFO - Req from: admin admin
+20/03/2022, 18:10:15 - INFO - Req!!!
+20/03/2022, 18:10:15 - INFO - Req from: admin admin
+20/03/2022, 18:10:24 - INFO - Req!!!
+20/03/2022, 18:10:24 - INFO - Req from: admin admin
+20/03/2022, 18:10:30 - INFO - Req!!!
+20/03/2022, 18:10:30 - INFO - Req from: admin admin
+20/03/2022, 18:12:55 - INFO - Req!!!
+20/03/2022, 18:12:55 - INFO - Req from: admin admin
+20/03/2022, 18:13:28 - INFO - Req!!!
+20/03/2022, 18:13:28 - INFO - Req from: admin admin
+20/03/2022, 18:18:04 - INFO - Req!!!
+20/03/2022, 18:18:29 - DEBUG - auth.service - login with username: admin
+20/03/2022, 18:21:18 - INFO - Req!!!
+20/03/2022, 18:21:18 - INFO - Req from: admin admin
+20/03/2022, 18:21:36 - INFO - Req!!!
+20/03/2022, 18:21:36 - INFO - Req from: admin admin
+20/03/2022, 18:23:09 - INFO - Req!!!
+20/03/2022, 18:23:09 - INFO - Req from: admin admin
+20/03/2022, 18:23:10 - DEBUG - Emiting to user socket: 623754ee355ba732e0bfb681
+20/03/2022, 18:23:56 - INFO - Req!!!
+20/03/2022, 18:23:56 - INFO - Req from: admin admin
+20/03/2022, 18:23:56 - DEBUG - Emiting to user socket: 6237551c355ba732e0bfb683
+20/03/2022, 18:25:22 - INFO - Req!!!
+20/03/2022, 18:25:22 - INFO - Req from: admin admin
+20/03/2022, 18:25:43 - INFO - Req!!!
+20/03/2022, 18:25:43 - INFO - Req from: admin admin
+20/03/2022, 18:27:21 - INFO - Req!!!
+20/03/2022, 18:27:21 - INFO - Req from: admin admin
+20/03/2022, 18:27:31 - INFO - Req!!!
+20/03/2022, 18:27:31 - INFO - Req from: admin admin
+20/03/2022, 18:27:33 - INFO - Req!!!
+20/03/2022, 18:27:33 - INFO - Req from: admin admin
+20/03/2022, 18:27:33 - DEBUG - Emiting to user socket: 623755f5355ba732e0bfb685
+20/03/2022, 18:29:28 - INFO - App listening on port 3030! http://localhost:3030
+20/03/2022, 18:29:32 - INFO - App listening on port 3030! http://localhost:3030
+20/03/2022, 18:29:42 - INFO - App listening on port 3030! http://localhost:3030
+20/03/2022, 18:29:47 - INFO - Req!!!
+20/03/2022, 18:30:03 - DEBUG - auth.service - login with username: admin
+20/03/2022, 18:30:15 - INFO - Req!!!
+20/03/2022, 18:30:15 - INFO - Req from: admin admin
+20/03/2022, 18:30:15 - DEBUG - Emiting to user socket: 6237569706efb4fffaae446e
+20/03/2022, 18:31:30 - INFO - Req!!!
+20/03/2022, 18:31:30 - INFO - Req from: admin admin
+20/03/2022, 18:31:30 - DEBUG - Emiting to user socket: 623756e206efb4fffaae4470
+20/03/2022, 18:33:17 - INFO - App listening on port 3030! http://localhost:3030
+20/03/2022, 18:33:19 - INFO - Req!!!
+20/03/2022, 18:33:31 - DEBUG - auth.service - login with username: admin
+20/03/2022, 18:33:46 - INFO - Req!!!
+20/03/2022, 18:33:46 - INFO - Req from: admin admin
+20/03/2022, 18:33:46 - DEBUG - Emiting to user socket: 6237576a7da517d0f14122f8
+20/03/2022, 18:34:04 - INFO - App listening on port 3030! http://localhost:3030
+20/03/2022, 18:34:14 - DEBUG - auth.service - login with username: admin
+20/03/2022, 18:34:25 - INFO - Req!!!
+20/03/2022, 18:34:25 - INFO - Req from: admin admin
+20/03/2022, 18:34:25 - DEBUG - Emiting to user socket: 62375791b8f4783e6f29a7e5
+20/03/2022, 18:35:27 - INFO - App listening on port 3030! http://localhost:3030
+20/03/2022, 18:35:40 - DEBUG - auth.service - login with username: admin
+20/03/2022, 18:35:56 - INFO - Req!!!
+20/03/2022, 18:35:56 - INFO - Req from: admin admin
+20/03/2022, 18:43:12 - INFO - Req!!!
+20/03/2022, 18:43:12 - INFO - Req from: admin admin
+20/03/2022, 18:45:28 - INFO - App listening on port 3030! http://localhost:3030
+20/03/2022, 18:45:42 - DEBUG - auth.service - login with username: admin
+20/03/2022, 18:45:51 - INFO - Req!!!
+20/03/2022, 18:45:51 - INFO - Req from: admin admin
+20/03/2022, 18:46:56 - INFO - App listening on port 3030! http://localhost:3030
+20/03/2022, 18:47:00 - INFO - App listening on port 3030! http://localhost:3030
+20/03/2022, 18:47:23 - DEBUG - auth.service - login with username: admin
+20/03/2022, 18:47:34 - INFO - Req!!!
+20/03/2022, 18:47:34 - INFO - Req from: admin admin
+20/03/2022, 18:47:34 - ERROR - Failed to add review | {}
+20/03/2022, 18:48:27 - INFO - App listening on port 3030! http://localhost:3030
+20/03/2022, 18:50:07 - INFO - App listening on port 3030! http://localhost:3030
+20/03/2022, 18:50:21 - DEBUG - auth.service - login with username: admin
+20/03/2022, 18:50:39 - INFO - Req!!!
+20/03/2022, 18:50:39 - INFO - Req from: admin admin
+20/03/2022, 18:50:39 - ERROR - cannot insert review | {}
+20/03/2022, 18:50:39 - ERROR - Failed to add review | {}
+20/03/2022, 18:51:27 - INFO - App listening on port 3030! http://localhost:3030
+20/03/2022, 18:51:35 - INFO - App listening on port 3030! http://localhost:3030
+20/03/2022, 18:51:44 - DEBUG - auth.service - login with username: admin
+20/03/2022, 18:51:53 - INFO - Req!!!
+20/03/2022, 18:51:53 - INFO - Req from: admin admin
+20/03/2022, 18:53:43 - DEBUG - auth.service - login with username: admin
+20/03/2022, 18:53:55 - INFO - Req!!!
+20/03/2022, 18:53:55 - INFO - Req from: admin admin
+20/03/2022, 18:54:49 - INFO - App listening on port 3030! http://localhost:3030
+20/03/2022, 18:57:55 - INFO - App listening on port 3030! http://localhost:3030
