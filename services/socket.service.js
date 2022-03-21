@@ -41,6 +41,13 @@ function connectSockets(http, session) {
         socket.on('unset-user-socket', () => {
             delete socket.userId
         })
+        socket.on('is-typing',username=>{
+            console.log('Emitting typing ', username);
+            socket.broadcast.to(socket.myTopic).emit('typing', username)
+        })
+        socket.on('stoped-typing', () => {
+            socket.broadcast.to(socket.myTopic).emit('not-typing')
+        })
 
     })
 }
