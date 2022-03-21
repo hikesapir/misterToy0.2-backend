@@ -21,7 +21,7 @@ const session = expressSession({
 app.use(express.json())
 app.use(session)
 app.use(express.static('public'))
-app.use(bodyParser.json())
+// app.use(bodyParser.json())
 
 if (process.env.NODE_ENV === 'production') {
     // Express serve static files on production environment

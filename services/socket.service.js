@@ -27,7 +27,9 @@ function connectSockets(http, session) {
             // emits to all sockets:
             // gIo.emit('chat addMsg', msg)
             // emits only to sockets in the same room
+
             gIo.to(socket.myTopic).emit('chat addMsg', msg)
+            // socket.broadcast.to(socket.myTopic).emit('chat addMsg', msg)
         })
         socket.on('user-watch', userId => {
             socket.join('watching:' + userId)
